@@ -1,6 +1,6 @@
 ## ¡Bienvenido! 🤞
 
-Mi nombre es Perla Yuritzy, tengo 21 años y soy ingeniera en Desarrollo y gestión de software.💻
+Mi nombre es Perla Yuritzy, tengo 21 años y soy ingeniera en desarrollo y gestión de software.💻
 
 - 🔭 Actualmente desarrollo proyectos en React.
 - 🌱 Me encuentro aprendiendo análisis de datos.
