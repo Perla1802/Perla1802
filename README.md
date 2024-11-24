@@ -1,10 +1,9 @@
-## ¡Bienvenido! 🤞
+## ¡Holaa! 🤞
 
 Mi nombre es Perla Yuritzy, tengo 21 años y soy ingeniera en desarrollo y gestión de software.💻
 
-- 🔭 Actualmente desarrollo proyectos en React.
+-  ✔ Actualmente desempeño el puesto de Desarrolladora Web en una consultoría de software.
 - 🖍 Amante del desarrollo Front-end.
-- 🌱 Me encuentro aprendiendo análisis de datos.
 -  💬 Contáctame: pyuritzy21@gmail.com
 
 <!--
