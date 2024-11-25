@@ -3,7 +3,7 @@
 Mi nombre es Perla Yuritzy, tengo 21 años y soy ingeniera en desarrollo y gestión de software.💻
 
 -  ✔ Actualmente desempeño el puesto de Desarrolladora Web en una consultoría de software.
-- 🖍 Interada en el desarrollo Front-end.
+- 🖍 Interesada en el desarrollo Front-end.
 -  💬 Contáctame: pyuritzy21@gmail.com
 
 <!--
